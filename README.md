@@ -1,0 +1,1 @@
+Changes the Seekbar color according to the strength of the password entered
